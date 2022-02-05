@@ -15,7 +15,7 @@ Skills:
 <h1>Estatística Github</h1>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LGustavoMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-<a href="https://github.com/LGustavoMachado"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMachado&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/LGustavoMachado"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMachado&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 </div>
