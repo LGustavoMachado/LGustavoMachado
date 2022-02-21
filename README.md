@@ -1,4 +1,4 @@
-<img src = "https://i.imgur.com/mhO83HD.png" width = "100px" height = "120px" align = "right">
+<img src = "https://i.imgur.com/mhO83HD.png" width = "120px" height = "150px" align = "right">
 <p align="left"> 
   Olá, Meu nome é Luiz! <br> Estou desenvolvendo minhas habilidades com a <strong>Generation Brasil</strong>, para me tornar um Full Stack.Jr.
 
