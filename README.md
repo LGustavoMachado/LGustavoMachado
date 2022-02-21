@@ -3,8 +3,9 @@
 </p>
 
 Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
 
 
 <h1>Contato: </h1>
@@ -14,8 +15,12 @@ Skills:
 
 <h1>Estatística Github</h1>
 <div>
+<a href="https://github.com/LGustavoMachado"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMachado&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LGustavoMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-<a href="https://github.com/LGustavoMachado"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMachado&layout=compact&langs_count=7&theme=tokyonight"/>
-
-
 </div>
+
+<p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LGustavoMachado/count.svg" />
+</p> 
