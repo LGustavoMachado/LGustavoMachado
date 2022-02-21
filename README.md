@@ -16,11 +16,6 @@ Skills:
 <h1>Estatística Github</h1>
 <div>
 <a href="https://github.com/LGustavoMachado"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LGustavoMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMachado&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=LGustavoMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavoMachado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LGustavoMachado/count.svg" />
-</p> 
