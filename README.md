@@ -1,8 +1,11 @@
+<img src = "https://i.imgur.com/mhO83HD.png" width = "100px" height = "120px" align = "right">
 <p align="left"> 
   Olá, Meu nome é Luiz! <br> Estou desenvolvendo minhas habilidades com a <strong>Generation Brasil</strong>, para me tornar um Full Stack.Jr.
+
 </p>
 
-![sorrisinho meme2 2](https://user-images.githubusercontent.com/91089946/154878227-89941f9c-e152-4eb1-8c96-6f78c52261a2.png)
+
+
 
 Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
