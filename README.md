@@ -15,7 +15,7 @@ Skills:
 
 <h1>Contato: </h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-m-dos-santos-421352209/)
+[![Linkedin](www.linkedin.com/in/LGustavoMachado97)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavolms/)
 
 <h1>Estatística Github</h1>
