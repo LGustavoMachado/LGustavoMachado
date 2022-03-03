@@ -15,8 +15,11 @@ Skills:
 
 <h1>Contato: </h1>
 
-[![Linkedin](www.linkedin.com/in/LGustavoMachado97)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavolms/)
+<div>
+<a href="https://www.instagram.com/gustavolms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lgustavomachado97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+</div>
 
 <h1>Estatística Github</h1>
 <div>
