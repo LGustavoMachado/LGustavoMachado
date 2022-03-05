@@ -12,16 +12,13 @@ Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
 
-
-<h1>Contato: </h1>
-
 <div>
 <a href="https://www.instagram.com/gustavolms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lgustavomachado97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 </div>
 
-<h1>Estatística Github</h1>
+<h2>Estatística Github</h2>
 <div>
 <a href="https://github.com/LGustavoMachado"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LGustavoMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
