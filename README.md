@@ -1,6 +1,6 @@
 <img src = "https://i.imgur.com/mhO83HD.png" width = "120px" height = "150px" align = "right">
 <p align="left"> 
-  Olá, Meu nome é Luiz! <br> Curso Análise e Desenvolvimento de Sistemas. Tenho como propósito me tornar <strong>Desenvolvedor Back-end Java sênior!</strong>
+  Eu sou Luiz, trabalho como back-end em Java. Além da programação, gosto de música, curso análise e desenvolvimento de sistemas e adoro jogar online. Aprecio trabalho em equipe e resolver problemas. Estou sempre em busca de desafios e crescimento profissional.</strong>
 </p>
 <p><strong> Seja muito bem-vindo!</strong></p>
 <br>
